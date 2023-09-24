@@ -22,7 +22,7 @@ SHEETY_PRICES_ENDPOINT = <google sheet endpoint>
 ## Setup API Accounts
 ### Setup a google sheet that looks something like that:
 CITY  | IATA CODE | LOWEST PRICE | ALL TIME LOW PRICE  
----------------------------------------------------  
+\---------------------------------------------------  
 Paris | PAR       | 3500         |  
 Tokyo | TYO       | 4000         |  
 ...
