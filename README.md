@@ -26,6 +26,10 @@ CITY  | IATA CODE | LOWEST PRICE | ALL TIME LOW PRICE
 Paris | PAR       | 3500         |  
 Tokyo | TYO       | 4000         |  
 ...
+```CITY``` This is the city you are departing from.
+```IATA``` CODE will be automatically filled in by the script.
+```LOWEST PRICE``` is your price limit to get notified if price goes below it.
+```ALL TIME LOW PRICE``` will be automatically filled each time there is a new all time low
 
 ### Use Sheety API to get your flight data from google sheet
 Follow the instructions from https://sheety.co/ to link your sheet and get an endpoint
